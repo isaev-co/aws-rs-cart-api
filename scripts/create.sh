@@ -1,0 +1,1 @@
+eb create devel --single --cname constantineisaev-rs-cart-api-dev 
