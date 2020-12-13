@@ -1,0 +1,1 @@
+eb init constantineisaev-rs-cart-api -r us-east-1 -v

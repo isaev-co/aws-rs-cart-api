@@ -1,0 +1,7 @@
+node_modules
+.elasticbeanstalk
+
+dist
+test
+.eslintrc.js
+README.md
